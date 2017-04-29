@@ -1,2 +1,4 @@
 # ANN_from_scratch
 Implementing an artificial neural network from scratch
+
+Descriptions of artificial neural networks usually include terms like 'deep learning', 'hidden layer', and 'mimicking the neural connectivity of the mammalian brain'. Terms like these can make neural networks seem mysterious and slightly intimidating to the uninitiated. In an attempt to both demystify and teach myself artificial neural networks I decided to build one from scratch. Many open source libraries like tensorflow exist for building large scale, efficient neural networks, and the model presented here is certainly not going to compete with them for high performance machine learning. Rather, this program allowed me to deconstruct an artificial neural network to it's bare bones components and learn how they work.
